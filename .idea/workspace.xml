@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbcad876-6a74-4b34-8985-828f5ce0c150" name="Default Changelist" comment="" />
+    <list default="true" id="bbcad876-6a74-4b34-8985-828f5ce0c150" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/templates/addarticle.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/addarticle.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +28,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/addarticle.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+            <state relative-caret-position="228">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
               <folding>
                 <element signature="e#136#165#0#HTML" expanded="true" />
                 <element signature="e#325#349#0#HTML" expanded="true" />
                 <element signature="e#232#257#0#HTML" expanded="true" />
+                <element signature="e#866#885#0#HTML" expanded="true" />
+                <element signature="e#1283#1303#0#HTML" expanded="true" />
                 <element signature="e#618#647#0#HTML" expanded="true" />
               </folding>
             </state>
@@ -94,6 +98,9 @@
       <find>nav</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -123,6 +130,7 @@
     <option name="width" value="873" />
     <option name="height" value="1020" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -242,12 +250,12 @@
       <option name="presentableId" value="Default" />
       <updated>1569626593191</updated>
       <workItem from="1569626705737" duration="12764000" />
-      <workItem from="1569716452344" duration="5077000" />
+      <workItem from="1569716452344" duration="5808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17841000" />
+    <option name="totallyTimeSpent" value="18572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -258,7 +266,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3163597" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3167028" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,12 +474,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/addarticle.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        <state relative-caret-position="228">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
           <folding>
             <element signature="e#136#165#0#HTML" expanded="true" />
             <element signature="e#325#349#0#HTML" expanded="true" />
             <element signature="e#232#257#0#HTML" expanded="true" />
+            <element signature="e#866#885#0#HTML" expanded="true" />
+            <element signature="e#1283#1303#0#HTML" expanded="true" />
             <element signature="e#618#647#0#HTML" expanded="true" />
           </folding>
         </state>
